@@ -12,6 +12,7 @@ _So what this project basically does is :_
 * In case of Wrong Answer, shows the Expected Answer string against the Actual Answer string along with line number of mismatch 
 * Provides the option of throwing the corresponding Failing Test Case in case of Wrong Answer
 * Shows the Execution time of the ran source
+* [A representational screenshot] (https://www.dropbox.com/s/g5yqmbucb4hguvg/testing.png?dl=0)
 ## Installing
 1. Clone or Download as a ZIP and start working inside the directory.
 2. Copy the contents of the _C++ Build&Test.sh_, which is the BASH script for automation.
