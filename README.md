@@ -30,3 +30,5 @@ _Use of this environment:_
      - Gets updated with the output of the running source.
    * ### _debug.txt_
      - For debugging purposes.
+   * ### _time.txt_
+     - Stores the running time.
