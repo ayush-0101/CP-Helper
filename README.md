@@ -1,4 +1,4 @@
-# Competitive-Programming-Helper
+# Competitive-Programming-Helper [![CodeFactor](https://www.codefactor.io/repository/github/iamayush18/competitive-programming-helper/badge)](https://www.codefactor.io/repository/github/iamayush18/competitive-programming-helper)
 A Competitive-Programming Helper environment (specifically for GEdit Text editor) to automate and speed-up Running and Testing activities !
 ## About
 This environment is for automated running and testing of code _directly from the text editor_.
