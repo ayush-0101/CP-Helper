@@ -14,7 +14,7 @@
 
 void compareFiles(FILE *fp1, FILE *fp2)
 {
-	char Aline[80], Eline[80], ch1, ch2;
+	char Aline[8080], Eline[8080], ch1, ch2;
 	int correct = 1, wa_judged = 0, count_lines = 0;
 	
 	reset(Aline);
@@ -100,7 +100,7 @@ void compareFiles(FILE *fp1, FILE *fp2)
 		printf("%sExpected : %s%s%s%s\n\n",cyan,white_back,red,Eline,NORMAL);
 		printf("%sFound : %s%s%s%s\n\n",cyan,white_back,red,Aline,NORMAL);
 		printf("%sAt line : %d%s\n\n",cyan,count_lines,NORMAL);
-		
+		/*
 		printf("Need the corresponding Test Case ? (y/n) ");
 		char ch;
 		scanf("%c",&ch);
@@ -130,6 +130,7 @@ void compareFiles(FILE *fp1, FILE *fp2)
 			}
 			printf("\n------------------------------------------------------\n");
 		}
+		*/
 	}
 }
 
